@@ -1,0 +1,24 @@
+[project]
+name = "PyPixPro"
+version = "1.0.0"
+description = "PyPixPro - Advanced Photo Organization & Processing Tool for macOS"
+authors = [
+    {name = "RazorBackRoar"}
+]
+requires-python = ">=3.9"
+keywords = [
+    "photo-organizer",
+    "image-processing",
+    "macos-app",
+    "photo-management",
+    "heic-converter",
+    "image-sorter",
+    "duplicate-finder",
+    "portrait-landscape",
+    "photo-workflow",
+    "apple-silicon"
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["pypixpro*"]

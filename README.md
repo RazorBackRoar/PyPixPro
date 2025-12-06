@@ -1,12 +1,12 @@
 # PyPixPro
 
-```
-██████╗ ██╗   ██╗██████╗ ██╗██╗  ██╗██████╗ ██████╗  ██████╗ 
+```text
+██████╗ ██╗   ██╗██████╗ ██╗██╗  ██╗██████╗ ██████╗  ██████╗
 ██╔══██╗╚██╗ ██╔╝██╔══██╗██║╚██╗██╔╝██╔══██╗██╔══██╗██╔═══██╗
 ██████╔╝ ╚████╔╝ ██████╔╝██║ ╚███╔╝ ██████╔╝██████╔╝██║   ██║
 ██╔═══╝   ╚██╔╝  ██╔═══╝ ██║ ██╔██╗ ██╔═══╝ ██╔══██╗██║   ██║
 ██║        ██║   ██║     ██║██╔╝ ██╗██║     ██║  ██║╚██████╔╝
-╚═╝        ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝ 
+╚═╝        ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝ ╚═════╝
 ```
 
 ## PyPixPro — Intelligent Photo Organization for macOS
@@ -152,7 +152,7 @@ PyPixPro runs 100% locally. No telemetry, no analytics, no network calls. Your p
 
 ### 👤 Author
 
-**RazorBackRoar**
+RazorBackRoar
 
 GitHub: [@RazorBackRoar](https://github.com/RazorBackRoar)
 

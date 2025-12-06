@@ -99,7 +99,7 @@ YourFolder/
 ### 💻 Requirements
 
 - macOS 10.13+
-- ~100 MB free disk space
+- ~2 GB free disk space
 - No Python install needed
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

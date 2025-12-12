@@ -18,7 +18,9 @@ __pycache__/
 *.orig
 
 # Packaging / build artifacts
-build/
+build/*
+!build/scripts/
+!build/dmg-config.json
 dist/
 pip-wheel-metadata/
 *.spec
